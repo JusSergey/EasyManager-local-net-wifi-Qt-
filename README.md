@@ -1,0 +1,1 @@
+# EasyManager-local-net-wifi-Qt-
