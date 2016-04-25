@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>back.jpg</file>
+        <file>application.ico</file>
+        <file>file.ico</file>
+        <file>folder.ico</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>bad-moon.jpg</file>
+        <file>beutyful-moon.jpg</file>
+        <file>big-moon.jpg</file>
+        <file>cat.jpg</file>
+        <file>christy.jpg</file>
+        <file>house.jpg</file>
+        <file>moon-water.jpg</file>
+        <file>night-moon-water.jpg</file>
+        <file>night-moon.jpg</file>
+        <file>super-night.jpg</file>
+    </qresource>
+</RCC>
